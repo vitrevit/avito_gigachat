@@ -1,1 +1,1 @@
-# avito-gigachat
+# avito_gigachat
